@@ -1,0 +1,7 @@
+id=enable-dt2w
+name=Enable Double Tap to Wakeup
+version=v1.0
+versionCode=100
+author=NxtSys / @Number666 (https://t.me/Number666)
+description=Enable Double Tap to Wakeup
+minMagisk=1500
